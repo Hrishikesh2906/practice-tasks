@@ -4,6 +4,8 @@
 
 ***AM.EN.U4CSE19231***
 
+## ***WELCOME TO MY PERSONAL BLOG***
+
 The reason why I wanted to join **AMRITA CS-STAR** is due to intrest in coding and I want to learn and explore more whats hapenning in the field of Computer Science.
 
 I am intersted in the field of Web content management, Wireless sensor networks and Data analytics.
